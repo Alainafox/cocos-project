@@ -10,7 +10,7 @@ cc.Class({
  
 
     onLoad () {
-        let ws = new WebSocket("ws://localhost:3000")
+        let ws = new WebSocket("ws://39.100.137.50:3000");
 
         ws.onopen = function(result){
             console.log("ws open",result);

@@ -1,9 +1,13 @@
 # COCOS WebSocket 客户端代码编写：
 
 详见：
-> 代码地址：C:\Users\armwu\Documents\我的坚果云\cocos\douniu_tutorial\lesson1\niuNiuClient\assets\scripts\niuNiuClient.js
+> 代码地址：D:\DATA\cocos\workspace\gitProject\cocos-project\douniu_tutorial
 
-
+语言标注
+```javascript
+// An highlighted block
+var foo = 'bar';
+```
 
 
 单行代码

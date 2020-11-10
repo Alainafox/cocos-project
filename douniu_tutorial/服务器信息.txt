@@ -4,5 +4,5 @@ i-8vbe2qq8cnhs6b65vslw运行中（1核 512MB）
 公网IP：39.100.137.50
 
 pwd：
-/root/myServer
+/root/myServer/niuNiuServer
 
