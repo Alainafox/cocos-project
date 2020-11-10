@@ -1,0 +1,8 @@
+i-8vbe2qq8cnhs6b65vslw运行中（1核 512MB）
+名称：launch-advisor-20201110
+地域：华北3（张家口）
+公网IP：39.100.137.50
+
+pwd：
+/root/myServer
+
