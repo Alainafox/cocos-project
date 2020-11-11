@@ -1,15 +1,20 @@
-
 cc.Class({
     extends: cc.Component,
+
     properties: {
-       mainNodeLayerPrefab: cc.Prefab
+        mainNodePrefab: cc.Prefab,
     },
+
+    // LIFE-CYCLE CALLBACKS:
+
     onLoad () {
-        let node = cc.instantiate(this.mainNodeLayerPrefab);
-        node.parent = this.node;
+        let mainNodeLayer = cc.instantiate(this.mainNodePrefab);
+        mainNodeLayer.parent = this.node;
     },
+
     start () {
 
     },
-    update (dt) {},
+
+    // update (dt) {},
 });

@@ -8,3 +8,4 @@ pwd：
 
 mariadb：
 root 密码：mysql602200
+
