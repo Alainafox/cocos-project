@@ -6,3 +6,5 @@ i-8vbe2qq8cnhs6b65vslw运行中（1核 512MB）
 pwd：
 /root/myServer/niuNiuServer
 
+mariadb：
+root 密码：mysql602200
